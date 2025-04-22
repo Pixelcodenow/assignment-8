@@ -1,0 +1,111 @@
+[
+    {
+      "id": 1,
+      "name": "Dr. Ayesha Rahman",
+      "image": "https://i.ibb.co/dJBSvBx2/doctor-sample.png",
+      "education": "MBBS, FCPS (Medicine)",
+      "speciality": "Internal Medicine",
+      "experience": "10 years",
+      "registration": "BMDC 123456"
+    },
+    {
+      "id": 2,
+      "name": "Dr. Tanvir Hossain",
+      "image": "https://i.ibb.co/dJBSvBx2/doctor-sample.png",
+      "education": "MBBS, MS (Ortho)",
+      "speciality": "Orthopedic Surgeon",
+      "experience": "8 years",
+      "registration": "BMDC 234567"
+    },
+    {
+      "id": 3,
+      "name": "Dr. Farhana Akter",
+      "image": "https://i.ibb.co/dJBSvBx2/doctor-sample.png",
+      "education": "MBBS, MD (Cardiology)",
+      "speciality": "Cardiologist",
+      "experience": "12 years",
+      "registration": "BMDC 345678"
+    },
+    {
+      "id": 4,
+      "name": "Dr. Mahmud Hasan",
+      "image": "https://i.ibb.co/dJBSvBx2/doctor-sample.png",
+      "education": "MBBS, FCPS (ENT)",
+      "speciality": "ENT Specialist",
+      "experience": "7 years",
+      "registration": "BMDC 456789"
+    },
+    {
+      "id": 5,
+      "name": "Dr. Nusrat Jahan",
+      "image": "https://i.ibb.co/dJBSvBx2/doctor-sample.png",
+      "education": "MBBS, DGO",
+      "speciality": "Gynecologist",
+      "experience": "9 years",
+      "registration": "BMDC 567890"
+    },
+    {
+      "id": 6,
+      "name": "Dr. Imran Kabir",
+      "image": "https://i.ibb.co/dJBSvBx2/doctor-sample.png",
+      "education": "MBBS, MD (Pediatrics)",
+      "speciality": "Child Specialist",
+      "experience": "11 years",
+      "registration": "BMDC 678901"
+    },
+    {
+      "id": 7,
+      "name": "Dr. Lina Parvin",
+      "image": "https://i.ibb.co/dJBSvBx2/doctor-sample.png",
+      "education": "MBBS, FCPS (Dermatology)",
+      "speciality": "Skin Specialist",
+      "experience": "6 years",
+      "registration": "BMDC 789012"
+    },
+    {
+      "id": 8,
+      "name": "Dr. Zakir Hossain",
+      "image": "https://i.ibb.co/dJBSvBx2/doctor-sample.png",
+      "education": "MBBS, MD (Neurology)",
+      "speciality": "Neurologist",
+      "experience": "13 years",
+      "registration": "BMDC 890123"
+    },
+    {
+      "id": 9,
+      "name": "Dr. Shirin Akhter",
+      "image": "https://i.ibb.co/dJBSvBx2/doctor-sample.png",
+      "education": "MBBS, FCPS (Psychiatry)",
+      "speciality": "Psychiatrist",
+      "experience": "10 years",
+      "registration": "BMDC 901234"
+    },
+    {
+      "id": 10,
+      "name": "Dr. Riaz Mahmud",
+      "image": "https://i.ibb.co/dJBSvBx2/doctor-sample.png",
+      "education": "MBBS, MD (Nephrology)",
+      "speciality": "Kidney Specialist",
+      "experience": "14 years",
+      "registration": "BMDC 012345"
+    },
+    {
+      "id": 11,
+      "name": "Dr. Samira Chowdhury",
+      "image": "https://i.ibb.co/dJBSvBx2/doctor-sample.png",
+      "education": "MBBS, FCPS (Ophthalmology)",
+      "speciality": "Eye Specialist",
+      "experience": "5 years",
+      "registration": "BMDC 112345"
+    },
+    {
+      "id": 12,
+      "name": "Dr. Adnan Karim",
+      "image": "https://i.ibb.co/dJBSvBx2/doctor-sample.png",
+      "education": "MBBS, MD (Gastroenterology)",
+      "speciality": "Gastroenterologist",
+      "experience": "9 years",
+      "registration": "BMDC 212345"
+    }
+  ]
+  
